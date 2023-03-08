@@ -39,6 +39,12 @@
       "name": "Test User 2",
       "email": "testuser2@test.com",
       "skills": [3,4]
+    },
+    {
+        "id": 4,
+        "name": "Test User 3",
+        "email": "testuser3@test.com",
+        "skills": [3]
     }
   ]
 }
