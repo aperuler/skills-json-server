@@ -1,0 +1,44 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "name": "java",
+      "users": [1,2]
+    },
+    {
+      "id": 2,
+      "name": "c++",
+      "users": [1]
+    },
+    {
+      "id": 3,
+      "name": "c#",
+      "users": [3]
+    },
+    {
+      "id": 4,
+      "name": "kotlin",
+      "users": [2,3]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "David Rüegger",
+      "email": "davidrue@gmail.com",
+      "skills": [1,2]
+    },
+    {
+      "id": 2,
+      "name": "Test User 1",
+      "email": "testuser@test.com",
+      "skills": [1,4]
+    },
+    {
+      "id": 3,
+      "name": "Test User 2",
+      "email": "testuser2@test.com",
+      "skills": [3,4]
+    }
+  ]
+}
