@@ -5,7 +5,7 @@
          "name":"Teamwork",
          "type":"SOFT",
          "users":[
-            "1"
+            1
          ]
       },
       {
@@ -13,7 +13,7 @@
          "name":"Project Management",
          "type":"SOFT",
          "users":[
-            "17"
+            17
          ]
       },
       {
@@ -21,7 +21,7 @@
          "name":"Problem Solving",
          "type":"SOFT",
          "users":[
-            "3"
+            3
          ]
       },
       {
@@ -29,7 +29,7 @@
          "name":"Communication",
          "type":"SOFT",
          "users":[
-            "4"
+            4
          ]
       },
       {
@@ -37,7 +37,7 @@
          "name":"Emotional Intelligence",
          "type":"SOFT",
          "users":[
-            "5"
+            5
          ]
       },
       {
@@ -45,7 +45,7 @@
          "name":"Collaboration",
          "type":"SOFT",
          "users":[
-            "6"
+            6
          ]
       },
       {
@@ -53,7 +53,7 @@
          "name":"Presentation Skills",
          "type":"SOFT",
          "users":[
-            "7"
+            7
          ]
       },
       {
@@ -61,7 +61,7 @@
          "name":"Code Reviews",
          "type":"SOFT",
          "users":[
-            "8"
+            8
          ]
       },
       {
@@ -69,7 +69,7 @@
          "name":"Decision Making",
          "type":"SOFT",
          "users":[
-            "10"
+            10
          ]
       },
       {
@@ -77,7 +77,7 @@
          "name":"Strategic Thinking",
          "type":"SOFT",
          "users":[
-            "9"
+            9
          ]
       },
       {
@@ -85,7 +85,7 @@
          "name":"Influencing",
          "type":"SOFT",
          "users":[
-            "11"
+            11
          ]
       },
       {
@@ -93,7 +93,7 @@
          "name":"Adaptability",
          "type":"SOFT",
          "users":[
-            "12"
+            12
          ]
       },
       {
@@ -101,7 +101,7 @@
          "name":"Negotiation",
          "type":"SOFT",
          "users":[
-            "13"
+            13
          ]
       },
       {
@@ -109,7 +109,7 @@
          "name":"Diversity Awareness",
          "type":"SOFT",
          "users":[
-            "14"
+            14
          ]
       },
       {
@@ -117,7 +117,7 @@
          "name":"Understanding the Problem",
          "type":"SOFT",
          "users":[
-            "15"
+            15
          ]
       },
       {
@@ -125,7 +125,7 @@
          "name":"Consulting",
          "type":"SOFT",
          "users":[
-            "16"
+            16
          ]
       },
       {
@@ -133,7 +133,7 @@
          "name":"Team Building",
          "type":"SOFT",
          "users":[
-            "17"
+            17
          ]
       },
       {
@@ -141,7 +141,7 @@
          "name":"Appreciating Diversity",
          "type":"SOFT",
          "users":[
-            "1"
+            1
          ]
       },
       {
@@ -149,7 +149,7 @@
          "name":"Innovation",
          "type":"SOFT",
          "users":[
-            "2"
+            2
          ]
       },
       {
@@ -157,7 +157,7 @@
          "name":"Organizational Skills",
          "type":"SOFT",
          "users":[
-            "3"
+            3
          ]
       },
       {
@@ -165,7 +165,7 @@
          "name":"Facilitation",
          "type":"SOFT",
          "users":[
-            "4"
+            4
          ]
       },
       {
@@ -173,7 +173,7 @@
          "name":"Public Speaking",
          "type":"SOFT",
          "users":[
-            "5"
+            5
          ]
       },
       {
@@ -181,7 +181,7 @@
          "name":"Listening",
          "type":"SOFT",
          "users":[
-            "6"
+            6
          ]
       },
       {
@@ -189,7 +189,7 @@
          "name":"Onboarding",
          "type":"SOFT",
          "users":[
-            "7"
+            7
          ]
       },
       {
@@ -197,7 +197,7 @@
          "name":"Cross-Functional Agility",
          "type":"SOFT",
          "users":[
-            "8"
+            8
          ]
       },
       {
@@ -205,7 +205,7 @@
          "name":"Cultural Awareness",
          "type":"SOFT",
          "users":[
-            "9"
+            9
          ]
       },
       {
@@ -213,7 +213,7 @@
          "name":"Detail Orientation",
          "type":"SOFT",
          "users":[
-            "10"
+            10
          ]
       },
       {
@@ -221,7 +221,7 @@
          "name":"Written Communication",
          "type":"SOFT",
          "users":[
-            "11"
+            11
          ]
       },
       {
@@ -229,7 +229,7 @@
          "name":"Navigating Ambiguity",
          "type":"SOFT",
          "users":[
-            "12"
+            12
          ]
       },
       {
@@ -237,7 +237,7 @@
          "name":"Presentation Delivery",
          "type":"SOFT",
          "users":[
-            "13"
+            13
          ]
       },
       {
@@ -245,7 +245,7 @@
          "name":"Verbal Communication",
          "type":"SOFT",
          "users":[
-            "14"
+            14
          ]
       },
       {
@@ -253,7 +253,7 @@
          "name":"Personal Development",
          "type":"SOFT",
          "users":[
-            "16"
+            16
          ]
       },
       {
@@ -261,7 +261,7 @@
          "name":"Challenging the Status Quo",
          "type":"SOFT",
          "users":[
-            "2"
+            2
          ]
       },
       {
@@ -269,9 +269,9 @@
          "name":"Leadership",
          "type":"LEAD",
          "users":[
-            "5",
-            "10",
-            "17"
+            5,
+            10,
+            17
          ]
       },
       {
@@ -279,7 +279,7 @@
          "name":"Career Development",
          "type":"LEAD",
          "users":[
-            "10"
+            10
          ]
       },
       {
@@ -287,7 +287,7 @@
          "name":"People Management",
          "type":"LEAD",
          "users":[
-            "10"
+            10
          ]
       },
       {
@@ -295,7 +295,7 @@
          "name":"Team Management",
          "type":"LEAD",
          "users":[
-            "10"
+            10
          ]
       },
       {
@@ -303,8 +303,8 @@
          "name":"Coaching",
          "type":"LEAD",
          "users":[
-            "5",
-            "17"
+            5,
+            17
          ]
       },
       {
@@ -312,8 +312,8 @@
          "name":"Mentoring",
          "type":"LEAD",
          "users":[
-            "5",
-            "17"
+            5,
+            17
          ]
       },
       {
@@ -321,7 +321,7 @@
          "name":"Strategic Planning",
          "type":"LEAD",
          "users":[
-            "5"
+            5
          ]
       },
       {
@@ -329,7 +329,7 @@
          "name":"Machine Learning",
          "type":"SPECIALTY",
          "users":[
-            "1"
+            1
          ]
       },
       {
@@ -337,7 +337,7 @@
          "name":"Data Analytics",
          "type":"SPECIALTY",
          "users":[
-            "1"
+            1
          ]
       },
       {
@@ -345,7 +345,7 @@
          "name":"Privacy",
          "type":"SPECIALTY",
          "users":[
-            "3"
+            3
          ]
       },
       {
@@ -353,7 +353,7 @@
          "name":"Security",
          "type":"SPECIALTY",
          "users":[
-            "3"
+            3
          ]
       },
       {
@@ -361,7 +361,7 @@
          "name":"Linux",
          "type":"SPECIALTY",
          "users":[
-            "7"
+            7
          ]
       },
       {
@@ -369,7 +369,7 @@
          "name":"Unix",
          "type":"SPECIALTY",
          "users":[
-            "7"
+            7
          ]
       },
       {
@@ -377,13 +377,13 @@
          "name":"Interviewing",
          "type":"SPECIALTY",
          "users":[
-            "5",
-            "6",
-            "7",
-            "9",
-            "13",
-            "16",
-            "17"
+            5,
+            6,
+            7,
+            9,
+            13,
+            16,
+            17
          ]
       },
       {
@@ -391,17 +391,17 @@
          "name":"Algorithms",
          "type":"SPECIALTY",
          "users":[
-            "1",
-            "2",
-            "3",
-            "7",
-            "11",
-            "12",
-            "13",
-            "14",
-            "15",
-            "16",
-            "17"
+            1,
+            2,
+            3,
+            7,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
          ]
       },
       {
@@ -409,7 +409,7 @@
          "name":"User Experience",
          "type":"SPECIALTY",
          "users":[
-            "6"
+            6
          ]
       },
       {
@@ -417,19 +417,19 @@
          "name":"Data Structures",
          "type":"SPECIALTY",
          "users":[
-            "1",
-            "2",
-            "3",
-            "4",
-            "6",
-            "7",
-            "11",
-            "12",
-            "13",
-            "14",
-            "15",
-            "16",
-            "17"
+            1,
+            2,
+            3,
+            4,
+            6,
+            7,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
          ]
       },
       {
@@ -437,12 +437,12 @@
          "name":"Testing",
          "type":"SPECIALTY",
          "users":[
-            "3",
-            "4",
-            "11",
-            "14",
-            "15",
-            "16"
+            3,
+            4,
+            11,
+            14,
+            15,
+            16
          ]
       },
       {
@@ -450,7 +450,7 @@
          "name":"Google Cloud",
          "type":"SPECIALTY",
          "users":[
-            "6"
+            6
          ]
       },
       {
@@ -458,10 +458,10 @@
          "name":"Debugging",
          "type":"SPECIALTY",
          "users":[
-            "4",
-            "5",
-            "6",
-            "9"
+            4,
+            5,
+            6,
+            9
          ]
       },
       {
@@ -469,7 +469,7 @@
          "name":"Data Visualization",
          "type":"SPECIALTY",
          "users":[
-            "4"
+            4
          ]
       },
       {
@@ -477,7 +477,7 @@
          "name":"Data Mining",
          "type":"SPECIALTY",
          "users":[
-            "1"
+            1
          ]
       },
       {
@@ -485,9 +485,9 @@
          "name":"HTML",
          "type":"LANG",
          "users":[
-            "14",
-            "15",
-            "16"
+            14,
+            15,
+            16
          ]
       },
       {
@@ -495,9 +495,9 @@
          "name":"CSS",
          "type":"LANG",
          "users":[
-            "14",
-            "15",
-            "16"
+            14,
+            15,
+            16
          ]
       },
       {
@@ -505,9 +505,9 @@
          "name":"MySQL",
          "type":"LANG",
          "users":[
-            "14",
-            "15",
-            "16"
+            14,
+            15,
+            16
          ]
       },
       {
@@ -515,20 +515,20 @@
          "name":"Android",
          "type":"LANG",
          "users":[
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10",
-            "11",
-            "12",
-            "13",
-            "17"
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            17
          ]
       },
       {
@@ -536,12 +536,12 @@
          "name":"Kotlin",
          "type":"LANG",
          "users":[
-            "2",
-            "3",
-            "5",
-            "7",
-            "12",
-            "17"
+            2,
+            3,
+            5,
+            7,
+            12,
+            17
          ]
       },
       {
@@ -549,7 +549,7 @@
          "name":"Objective C",
          "type":"LANG",
          "users":[
-            "9"
+            9
          ]
       },
       {
@@ -557,10 +557,10 @@
          "name":"TypeScript",
          "type":"LANG",
          "users":[
-            "2",
-            "14",
-            "15",
-            "16"
+            2,
+            14,
+            15,
+            16
          ]
       },
       {
@@ -568,10 +568,10 @@
          "name":"JavaScript",
          "type":"LANG",
          "users":[
-            "2",
-            "14",
-            "15",
-            "16"
+            2,
+            14,
+            15,
+            16
          ]
       },
       {
@@ -579,7 +579,7 @@
          "name":"Rust",
          "type":"LANG",
          "users":[
-            "2"
+            2
          ]
       },
       {
@@ -587,9 +587,9 @@
          "name":"Python",
          "type":"LANG",
          "users":[
-            "1",
-            "4",
-            "11"
+            1,
+            4,
+            11
          ]
       },
       {
@@ -597,16 +597,16 @@
          "name":"Java",
          "type":"LANG",
          "users":[
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "9",
-            "10",
-            "17"
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            9,
+            10,
+            17
          ]
       },
       {
@@ -614,9 +614,9 @@
          "name":"C++",
          "type":"LANG",
          "users":[
-            "8",
-            "16",
-            "17"
+            8,
+            16,
+            17
          ]
       },
       {
@@ -624,9 +624,9 @@
          "name":"C",
          "type":"LANG",
          "users":[
-            "8",
-            "16",
-            "17"
+            8,
+            16,
+            17
          ]
       },
       {
@@ -634,7 +634,7 @@
          "name":"Git",
          "type":"LANG",
          "users":[
-            "1"
+            1
          ]
       },
       {
@@ -642,8 +642,8 @@
          "name":"Guice",
          "type":"LANG",
          "users":[
-            "2",
-            "7"
+            2,
+            7
          ]
       },
       {
@@ -651,8 +651,8 @@
          "name":"C#",
          "type":"LANG",
          "users":[
-            "8",
-            "17"
+            8,
+            17
          ]
       },
       {
@@ -660,9 +660,9 @@
          "name":"Go",
          "type":"LANG",
          "users":[
-            "4",
-            "11",
-            "17"
+            4,
+            11,
+            17
          ]
       }
    ],
@@ -672,17 +672,17 @@
          "email":"mamueldrasyk@gmail.com",
          "name":"Mamuel Drasyk",
          "skills":[
-            "1",
-            "18",
-            "41",
-            "42",
-            "48",
-            "50",
-            "55",
-            "59",
-            "65",
-            "66",
-            "69"
+            1,
+            18,
+            41,
+            42,
+            48,
+            50,
+            55,
+            59,
+            65,
+            66,
+            69
          ],
          "lead":false
       },
@@ -691,17 +691,17 @@
          "email":"appticahh@gmail.com",
          "name":"Saraj Yosh",
          "skills":[
-            "19",
-            "33",
-            "48",
-            "50",
-            "59",
-            "60",
-            "62",
-            "63",
-            "64",
-            "66",
-            "70"
+            19,
+            33,
+            48,
+            50,
+            59,
+            60,
+            62,
+            63,
+            64,
+            66,
+            70
          ],
          "lead":false
       },
@@ -710,16 +710,16 @@
          "email":"lohrenskupfer@gmail.com",
          "name":"Lohrens Kupfer",
          "skills":[
-            "3",
-            "20",
-            "43",
-            "44",
-            "48",
-            "50",
-            "51",
-            "59",
-            "60",
-            "66"
+            3,
+            20,
+            43,
+            44,
+            48,
+            50,
+            51,
+            59,
+            60,
+            66
          ],
          "lead":false
       },
@@ -728,16 +728,16 @@
          "email":"lauhrabeer@gmail.com",
          "name":"Lauhra Beer",
          "skills":[
-            "4",
-            "21",
-            "50",
-            "51",
-            "53",
-            "54",
-            "59",
-            "65",
-            "66",
-            "72"
+            4,
+            21,
+            50,
+            51,
+            53,
+            54,
+            59,
+            65,
+            66,
+            72
          ],
          "lead":false
       },
@@ -746,17 +746,17 @@
          "email":"marcusjehtter@gmail.com",
          "name":"Marcus Jehtter",
          "skills":[
-            "5",
-            "22",
-            "34",
-            "38",
-            "39",
-            "40",
-            "47",
-            "53",
-            "59",
-            "60",
-            "66"
+            5,
+            22,
+            34,
+            38,
+            39,
+            40,
+            47,
+            53,
+            59,
+            60,
+            66
          ],
          "lead":true
       },
@@ -765,15 +765,15 @@
          "email":"AnnaDumithrahs@gmail.com",
          "name":"Anna Dumithrahs",
          "skills":[
-            "6",
-            "23",
-            "47",
-            "49",
-            "50",
-            "52",
-            "53",
-            "59",
-            "66"
+            6,
+            23,
+            47,
+            49,
+            50,
+            52,
+            53,
+            59,
+            66
          ],
          "lead":false
       },
@@ -782,17 +782,17 @@
          "email":"andrerahpivettha@gmail.com",
          "name":"Andrerah Pivettha",
          "skills":[
-            "7",
-            "24",
-            "45",
-            "46",
-            "47",
-            "48",
-            "50",
-            "59",
-            "60",
-            "66",
-            "70"
+            7,
+            24,
+            45,
+            46,
+            47,
+            48,
+            50,
+            59,
+            60,
+            66,
+            70
          ],
          "lead":false
       },
@@ -801,12 +801,12 @@
          "email":"InezMehrzhahk@gmail.com",
          "name":"Inez Mehrzhahk",
          "skills":[
-            "8",
-            "25",
-            "59",
-            "67",
-            "68",
-            "71"
+            8,
+            25,
+            59,
+            67,
+            68,
+            71
          ],
          "lead":false
       },
@@ -815,13 +815,13 @@
          "email":"StehffanMuehler@gmail.com",
          "name":"Stehffan Muehler",
          "skills":[
-            "10",
-            "26",
-            "47",
-            "53",
-            "59",
-            "61",
-            "66"
+            10,
+            26,
+            47,
+            53,
+            59,
+            61,
+            66
          ],
          "lead":false
       },
@@ -830,14 +830,14 @@
          "email":"PablohDahlMar@gmail.com",
          "name":"Pablo Dahlmar",
          "skills":[
-            "9",
-            "27",
-            "34",
-            "35",
-            "36",
-            "37",
-            "59",
-            "66"
+            9,
+            27,
+            34,
+            35,
+            36,
+            37,
+            59,
+            66
          ],
          "lead":true
       },
@@ -846,14 +846,14 @@
          "email":"dahvidehruejher@gmail.com",
          "name":"Dahvideh Ruejher",
          "skills":[
-            "11",
-            "28",
-            "48",
-            "50",
-            "51",
-            "59",
-            "65",
-            "72"
+            11,
+            28,
+            48,
+            50,
+            51,
+            59,
+            65,
+            72
          ],
          "lead":false
       },
@@ -862,12 +862,12 @@
          "email":"ygrittestark.ipa@gmail.com",
          "name":"Ygritte Stark",
          "skills":[
-            "12",
-            "29",
-            "48",
-            "50",
-            "59",
-            "60"
+            12,
+            29,
+            48,
+            50,
+            59,
+            60
          ],
          "lead":false
       },
@@ -876,12 +876,12 @@
          "email":"robertglasshowler.ipa@gmail.com",
          "name":"Robert Glasshowler",
          "skills":[
-            "13",
-            "30",
-            "47",
-            "48",
-            "50",
-            "59"
+            13,
+            30,
+            47,
+            48,
+            50,
+            59
          ],
          "lead":false
       },
@@ -890,16 +890,16 @@
          "email":"tormundtyrell.ipa@gmail.com",
          "name":"Tormund Tyrell",
          "skills":[
-            "14",
-            "31",
-            "48",
-            "50",
-            "51",
-            "56",
-            "57",
-            "58",
-            "62",
-            "63"
+            14,
+            31,
+            48,
+            50,
+            51,
+            56,
+            57,
+            58,
+            62,
+            63
          ],
          "lead":false
       },
@@ -908,15 +908,15 @@
          "email":"ashasand.ipa@gmail.com",
          "name":"Asha Sand",
          "skills":[
-            "15",
-            "48",
-            "50",
-            "51",
-            "56",
-            "57",
-            "58",
-            "62",
-            "63"
+            15,
+            48,
+            50,
+            51,
+            56,
+            57,
+            58,
+            62,
+            63
          ],
          "lead":false
       },
@@ -925,19 +925,19 @@
          "email":"susanasnow.ipa@gmail.com",
          "name":"Susana Snow",
          "skills":[
-            "16",
-            "32",
-            "47",
-            "48",
-            "50",
-            "51",
-            "56",
-            "57",
-            "58",
-            "62",
-            "63",
-            "67",
-            "68"
+            16,
+            32,
+            47,
+            48,
+            50,
+            51,
+            56,
+            57,
+            58,
+            62,
+            63,
+            67,
+            68
          ],
          "lead":false
       },
@@ -946,21 +946,21 @@
          "email":"wookiee999999999@gmail.com",
          "name":"Wookie",
          "skills":[
-            "2",
-            "17",
-            "34",
-            "38",
-            "39",
-            "47",
-            "48",
-            "50",
-            "59",
-            "60",
-            "66",
-            "67",
-            "68",
-            "71",
-            "72"
+            2,
+            17,
+            34,
+            38,
+            39,
+            47,
+            48,
+            50,
+            59,
+            60,
+            66,
+            67,
+            68,
+            71,
+            72
          ],
          "lead":true
       }
